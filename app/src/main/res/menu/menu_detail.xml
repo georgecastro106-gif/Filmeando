@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Botón de Favorito (Estrella) -->
+    <item
+        android:id="@+id/action_favorite"
+        android:title="Favorito"
+        android:icon="@android:drawable/star_off"
+        app:showAsAction="always" />
+
+    <!-- Botón de Compartir -->
+    <item
+        android:id="@+id/action_share"
+        android:title="Compartir"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="ifRoom" />
+
+</menu>

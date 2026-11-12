@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta de colores Cine / Premium Dark -->
+    <color name="cinema_red">#E50914</color>
+    <color name="cinema_red_dark">#B20710</color>
+    <color name="cinema_gold">#FFC107</color>
+    <color name="cinema_bg">#141414</color>
+    <color name="cinema_card_bg">#1E1E1E</color>
+    <color name="cinema_text_primary">#FFFFFF</color>
+    <color name="cinema_text_secondary">#B0B0B0</color>
+    <color name="cinema_input_bg">#2B2B2B</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Filmeando" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cinema_red</item>
+        <item name="colorSecondary">@color/cinema_gold</item>
+        <item name="android:statusBarColor">@color/cinema_bg</item>
+        <item name="android:windowBackground">@color/cinema_bg</item>
+    </style>
+
+    <style name="Theme.Filmeando" parent="Base.Theme.Filmeando" />
+</resources>
